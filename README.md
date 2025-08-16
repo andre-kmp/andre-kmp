@@ -37,7 +37,7 @@ I'm trained to turn complex datasets into actionable insights, either for busine
 | 2021–2022 |       Internship in Automation Engineering      | `IoT` `Remote sensing` `Energy harvesting` `Wireless Communication` `Agile`          |
 | 2020–2021 |    Undergraduate Research (Applied Statistics)   | `Statistics` `Quality` `Hypothesis testing` `KPIs`     |
 | 2019–2020 |    Undergraduate Research (Applied Electronics)   | `Firmware` `PCB` `Sensing`               |
-| 2016–2022 |       Biosystems Engineering      | `Firmware (C)` `Geoprocessing (QGIS)` `ML (Python)` `Project Management` `ESG` |
+| 2016–2022 |       Bachelor's degree in Biosystems Engineering      | `Firmware (C)` `Geoprocessing (QGIS)` `ML (Python)` `Project Management` `ESG` |
 
 🔗 [More details about each experience](https://andre-kmp.github.io/#aboutme)
 
