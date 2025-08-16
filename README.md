@@ -4,7 +4,7 @@
     <span>André Klaic</span>
 </h1>
 
-Hi, I'm André 🖖 I'm a data scientist from Tupã, SP, Brazil. My background is very diverse, but each chapter of my journey taught me skills and competences I carry with me and bring to my work.
+Hi, I'm André 🖖 I'm a data scientist from Tupã, SP, Brazil. My background is very diverse, but each chapter of my journey taught me skills and competences I carry with me and bring to my work. Currently, I'm taking a Bachelor's degree in <b>Data Science</b> at UNIVESP (Brazil).
 
 <i>If you’d like to explore some case studies and see how I approach problem-solving, check out my [portfolio](https://andre-kmp.github.io/).</i>
 
