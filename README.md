@@ -1,12 +1,4 @@
-<h1>
-    <a href="https://andre-kmp.github.io/">
-     <img align="top" width="40px" src="https://raw.githubusercontent.com/andre-kmp/andre-kmp.github.io/refs/heads/main/images/favicon.png"></a>
-    <span>André Klaic</span>
-</h1>
-
 Hi, I'm André 🖖 I'm a data scientist from Tupã, SP, Brazil. My background is very diverse, but each chapter of my journey taught me skills and competences I carry with me and bring to my work. Currently, I'm taking a Bachelor's degree in <b>Data Science</b> at UNIVESP (Brazil).
-
-<i>If you’d like to explore some case studies and see how I approach problem-solving, check out my [portfolio](https://andre-kmp.github.io/).</i>
 
 
 ### Main skills & tools
@@ -38,9 +30,6 @@ I'm trained to turn complex datasets into actionable insights, either for busine
 | 2020–2021 |    Undergraduate Research (Applied Statistics)   | `Statistics` `Quality` `Hypothesis testing` `KPIs`     |
 | 2019–2020 |    Undergraduate Research (Applied Electronics)   | `Firmware` `PCB` `Sensing`               |
 | 2016–2022 |       Bachelor's degree in Biosystems Engineering      | `Firmware (C)` `Geoprocessing (QGIS)` `ML (Python)` `Project Management` `ESG` |
-
-🔗 [More details about each experience](https://andre-kmp.github.io/#aboutme)
-
 
 
 ### 📫 Get in touch
